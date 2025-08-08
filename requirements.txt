@@ -1,0 +1,3 @@
+anthropic==0.27.0  # Claude Python SDK
+python-dotenv==1.0.0  # 管理环境变量
+claude_code_sdk==0.0.19
